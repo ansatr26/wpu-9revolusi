@@ -1,2 +1,2 @@
-# wpu-9revolusi
+# wpu-revolusi
 Repository untuk menyimpan rencana WPU kedepannnya
